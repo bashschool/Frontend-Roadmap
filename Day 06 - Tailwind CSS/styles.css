@@ -1,0 +1,4 @@
+
+.h2 {
+    @apply text-3xl font-serif font-bold underline text-rose-600;
+}

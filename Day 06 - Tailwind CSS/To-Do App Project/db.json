@@ -1,0 +1,10 @@
+{
+  "Todo": [
+    {
+      "id": "1",
+      "title": "Design the landing page",
+      "status": "todo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
